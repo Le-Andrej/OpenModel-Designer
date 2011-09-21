@@ -1,38 +1,31 @@
-= Wapama
-The HTML5 modeler
+= OpenModel Designer
 
-Wapama is an extensible web-based modeler supporting BPMN 2.0 natively.
+OpenModel Designer is an extensible web-based modeler supporting different information models.
+OpenModel Designer based on the projetcs ORYX und Wamapa 
 
 == A complete modeling application
 
-Wapama is a complete editor for modeling BPMN 2.0. Many other metamodels are supported, including BPMN 1.1, BPEL 2.0, or Petrinets.
+OpenModel Designer is a complete editor for modeling different information models.
+Like BPMN 2.0, EPS, Workflow Nets, Value Systems, Value Nets, Process Landscapes, Process, Service Systems or Service Landscapes etc. 
 
 == HTML5 champion
 
-Wapama uses trusted web technologies to render and edit models. It is particularly leveraging SVG (Scalable Vector Graphics) for rendering, a HTML5 technology.
+OpenModel Designer uses trusted web technologies to render and edit models. It is particularly leveraging SVG (Scalable Vector Graphics) for rendering, a HTML5 technology.
 
-== Create your own editor
+== Create your own model metamodel for your favorite model typ
 
-Reuse, customize or create your own buttons and toolbar items. All metamodels are simple JSON files defining shapes, properties and relationships.
-
-= Project management
+Reuse, customize or create your own stencilset and toolbar items. The metamodel is simple JSON files defining shapes, properties and relationships.
 
 == Mailing list
 
-http://groups.google.com/group/wapama
+comming soon on OpenModelingCommunity -> OpenModel Designer
 
-== Builds
+= Project management
 
-=== CI builds
+comming soon on OpenModeling Community -> OpenModel Designer
 
-http://hudson.intalio.org/job/Wapama_CI_Build/
+Visit our OpenModeling Community 
 
-=== Release builds
+http://openmodelingplatform.org/
 
-http://hudson.intalio.org/job/Wapama_Release_Build/
-
-=== Download
-
-Get it as war, war for jboss or OSGi webapp bundle here:
-
-http://www.intalio.org/public/maven2/com/intalio/bpms/web/designer/
+Le-Andrej
